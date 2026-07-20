@@ -7,10 +7,10 @@ import axios from 'axios';
 import { useDispatch } from 'react-redux'
 import { setUserData } from './redux/userSlice.js';
 import InterviewPage from './pages/InterviewPage.jsx'
-import Step2Interview from './Components/Step2interview.jsx'
+import Step2Interview from './Components/Step2Interview.jsx'
 import InterviewHistory from './pages/InterviewHistory.jsx'
 import Pricing from './pages/Pricing.jsx'
-import InterviewReport from './pages/interviewReport.jsx'
+import InterviewReport from './pages/InterviewReport.jsx'
 
 
 
